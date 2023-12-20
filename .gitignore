@@ -1,3 +1,5 @@
 .parcel-cache
 
-.node-modules
+# .gitignore
+node_modules/
+
